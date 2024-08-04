@@ -12,9 +12,13 @@ st.title("Happy BirthDay to Saithi ! 🎉")
 st.write("Let's celebrate with some best pics!")
 
 
-col1,col2= st.columns(2,gap="large")
+col1,col2,col3,col4= st.columns(4)
+
 col1.image("Saithi1.jpg")
-col2.image("Saithi2.png")
+col2.image("Saithi5.png")
+col3.image("Saithi2.png")
+col4.image("Saithi4.png")
+
 
 
 
