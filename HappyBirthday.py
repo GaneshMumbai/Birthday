@@ -79,7 +79,7 @@ st.markdown('<h1 class="brown-text">Enjoy your special day to the fullest! ðŸŽ‰ð
 
 for i in range(0,100):
     st.balloons()
-    time.sleep(2)
+    time.sleep(7)
 
 
 
