@@ -52,7 +52,7 @@ col1,col2,col3,col4= st.columns(4)
 
 col1.image("Saithi1.jpg")
 col2.image("Saithi5.png")
-col3.image("Saithi6.png")
+col3.image("Saithi7.png")
 col4.image("Saithi2.png")
 
 st.divider()
